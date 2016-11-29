@@ -1,16 +1,7 @@
-3rkl2p3r
-f
-d
-fsd
-f
-sd
-f
-sg
-
-erhg
-
-erg
-rh
-e
-rh
-erh
+cd .. -> back folder
+git add * -> add all changed files
+git commit -m "Test Name" -> commit your file
+git push -u origin master -> push your project
+//git clone https://github.com/burzik/urf -> copy this to your folder
+git pull -> copy all files to current folder
+ls -a ->list of files
